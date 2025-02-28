@@ -1,2 +1,2 @@
 # Web_Dev
-This repository for Web Development Projects
+This repository is for Web Development Projects
